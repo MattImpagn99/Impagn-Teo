@@ -10,6 +10,8 @@ namespace primo_ripo_test
     {
         static void Main(string[] args)
         {
+            Console.Write("Ciao Mondo Commit");
+            Console.ReadLine();
         }
     }
 }
